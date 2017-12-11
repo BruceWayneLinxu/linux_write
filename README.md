@@ -1,2 +1,2 @@
-# linux_write
-Beginning Linux Programming -- linux write
+#author: linux
+programming_practice_projects

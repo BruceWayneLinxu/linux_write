@@ -1,2 +1,6 @@
-#author: linux
-programming_practice_projects
+# programming_practice_projects
+------
+### projects
+[c_projects](https://github.com/BruceWayneLinxu/programming_practice_projects/tree/master/c_projects)
+
+[cpp_projects](https://github.com/BruceWayneLinxu/programming_practice_projects/tree/master/cpp_projects)

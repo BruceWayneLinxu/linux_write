@@ -9,7 +9,7 @@ class map_template
 {
 public:
     map_template() {}
-    ~map_template() {}
+    virtual ~map_template() {}
 
     virtual void Insert(const K &key, const V &value)
     {
